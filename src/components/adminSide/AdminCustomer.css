@@ -1,0 +1,11 @@
+@media (min-width:992px){
+  .customer-table
+  {
+    margin-top: 90px;
+    margin-left: 190px;
+  }
+  
+}
+.dataTables_length {
+  display: none;
+}
